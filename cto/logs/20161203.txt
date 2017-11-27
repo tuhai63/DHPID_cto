@@ -1,0 +1,10 @@
+********** 4:54:59 PM **********
+Exception Type: System.NullReferenceException
+Exception: Object reference not set to an instance of an object.
+Source: SearchResult.ashx
+Stack Trace: 
+   at cto.QueryStringHelper.<GetLang>b__0(String x) in c:\inetpub\wwwroot\cto\App_Code\QueryStringHelper.cs:line 19
+   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source, Func`2 predicate)
+   at cto.QueryStringHelper.GetLang(NameValueCollection queryString) in c:\inetpub\wwwroot\cto\App_Code\QueryStringHelper.cs:line 19
+   at cto.searchResult.ProcessRequest(HttpContext context) in c:\inetpub\wwwroot\cto\handler\searchResult.ashx:line 22
+

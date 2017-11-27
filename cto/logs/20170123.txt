@@ -1,0 +1,5 @@
+********** 10:27:39 AM **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+Source: FullReportCard.ashx - There is no data for insepction Number : 201701001
+Stack Trace: 

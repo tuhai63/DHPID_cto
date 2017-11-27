@@ -1,0 +1,42 @@
+********** 11:54:56 AM **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+Source: FullReportCard.ashx - There is no data for insepction Number : 201701001
+Stack Trace: 
+********** 2:14:23 PM **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+Source: FullReportCard.ashx - There is no data for insepction Number : 201701001
+Stack Trace: 
+********** 3:09:43 PM **********
+Exception Type: System.IndexOutOfRangeException
+Exception: Index was outside the bounds of the array.
+Source: Default.aspx - IRC Upload()- reference Number:4728A7E4, inspection start Date : 1/6/2017 12:00:00 AM
+Stack Trace: 
+   at cto.ctoadmin_manageData.insertIRCs_Click(Object sender, EventArgs e) in c:\inetpub\wwwroot\cto\ctoadmin\manageData.aspx.cs:line 347
+
+********** 4:22:37 PM **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+Source: FullReportCard.ashx - There is no data for insepction Number : 201701001
+Stack Trace: 
+********** 4:22:41 PM **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+Source: FullReportCard.ashx - There is no data for insepction Number : 201701001
+Stack Trace: 
+********** 4:22:45 PM **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+Source: FullReportCard.ashx - There is no data for insepction Number : 201701001
+Stack Trace: 
+********** 5:14:10 PM **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+Source: FullReportCard.ashx - There is no data for insepction Number : 201701001
+Stack Trace: 
+********** 5:14:14 PM **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+Source: FullReportCard.ashx - There is no data for insepction Number : 201701001
+Stack Trace: 

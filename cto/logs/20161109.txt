@@ -1,0 +1,8 @@
+********** 10:50:24 AM **********
+Exception Type: System.IndexOutOfRangeException
+Exception: Index was outside the bounds of the array.
+Source: Default.aspx - IRC Upload()- reference Number:95226D3E, inspection start Date : 1/1/0001 12:00:00 AM
+Stack Trace: 
+   at cto.UtilityHelper.ConvertToDateTime(String strDateTime) in c:\inetpub\wwwroot\cto\App_Code\UtilityHelper.cs:line 190
+   at cto.ctoadmin_manageData.insertIRCs_Click(Object sender, EventArgs e) in c:\inetpub\wwwroot\cto\ctoadmin\manageData.aspx.cs:line 312
+

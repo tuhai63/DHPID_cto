@@ -1,0 +1,10 @@
+********** 04:59:21 **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+Source: InitialReportCard.ashx - There is no data for Insepction Number : 201704002
+Stack Trace: 
+********** 05:29:06 **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+Source: InitialReportCard.ashx - There is no data for Insepction Number : 201704002
+Stack Trace: 

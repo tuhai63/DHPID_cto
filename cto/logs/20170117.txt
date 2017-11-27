@@ -1,0 +1,22 @@
+********** 4:46:08 PM **********
+Exception Type: System.IndexOutOfRangeException
+Exception: Index was outside the bounds of the array.
+Source: Default.aspx - IRC Upload()- reference Number:4728A7E4, inspection start Date : 1/6/2017 12:00:00 AM
+Stack Trace: 
+   at cto.ctoadmin_manageData.insertIRCs_Click(Object sender, EventArgs e) in c:\inetpub\wwwroot\cto\ctoadmin\manageData.aspx.cs:line 347
+
+********** 4:47:07 PM **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+Source: FullReportCard.ashx - There is no data for insepction Number : 201701001
+Stack Trace: 
+********** 4:47:12 PM **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+Source: FullReportCard.ashx - There is no data for insepction Number : 201701001
+Stack Trace: 
+********** 4:47:15 PM **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+Source: FullReportCard.ashx - There is no data for insepction Number : 201701001
+Stack Trace: 

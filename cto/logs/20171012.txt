@@ -1,0 +1,10 @@
+********** 3:34:08 PM **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+Source: InspectionDetail.ashx - There is no data for Inspection Number : 201701007
+Stack Trace: 
+********** 11:17:04 PM **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+Source: InspectionDetail.ashx - There is no data for Inspection Number : 201704002
+Stack Trace: 

@@ -1,0 +1,10 @@
+********** 10:55:36 AM **********
+Exception Type: System.FormatException
+Exception: Input string was not in a correct format.
+Source: fullReportCard.ashx
+Stack Trace: 
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at cto.fullReportCard.ProcessRequest(HttpContext context) in c:\inetpub\wwwroot\cto\handler\fullReportCard.ashx:line 25
+
